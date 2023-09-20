@@ -267,13 +267,16 @@ h1 {
     font-size: 2rem;
     line-height: 1.5;
   }
+  header{
+    height: 290px;
+  }
 
   .number {
     font-size: 4rem;
   }
 
   .between {
-    font-size: 0.8rem;
+    font-size: 1.1rem;
     width: 28rem;
     text-align: center;
   }
